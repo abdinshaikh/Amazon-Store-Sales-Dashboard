@@ -8,7 +8,7 @@ This project showcases an interactive **Power BI dashboard** built using Amazon 
 ## Files in this Repository
 - `Amazon_Sales_Dashboard.pbix` – The Power BI dashboard file.
 - `Amazon_Store_Sales_Data.csv` – The dataset used for building the dashboard.
-- 
+  
 ## Tools & Technologies
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
